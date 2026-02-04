@@ -1,0 +1,80 @@
+    1  cd HW_10
+    2  git clone [200~
+    3  cd Desktop
+    4  cd Desktop
+    5  git clone https://github.com/Emirr0012/HW_10.git
+    6  cd HW_10
+    7  text_ignore.txt
+    8  touch text_ignore.txt
+    9  1s
+   10  cd Desktop
+   11  cd Masaüsü
+   12  cd masaüstü
+   13  bash
+   14  cd masaüsü
+   15  cd Masaüstü
+   16  pwd
+   17  cd /c/Users/emire/Desktop
+   18  cd /c/Users/emire/Masaüstü
+   19  git checkout -b develop
+   20  git HW_10
+   21  cd HW_10
+   22  git status
+   23  git checkout -b develop
+   24  touch develop_test.txt
+   25  git commit -m "develop_test.txt eklendi"
+   26  git add .
+   27  git commit -m "develop_test eklendi"
+   28  git push origin develop
+   29  git add .
+   30  git commi -m "test_ignore dosyası güncellendi"
+   31  git commit -m "test_ignore dosyası güncellendi"
+   32  git status
+   33  git add .
+   34  git commit -m "tex_ignore dosyası değiştirildi
+   35  git commi -m "text_ignore dosyası değiştirildi"
+   36  git commit -m "text_ignore dosyası değiştirildi"
+   37  git push origin develop
+   38  clear
+   39  clear
+   40  git branch
+   41  cd HW_10
+   42  git branch
+   43  git add .
+   44  git commit -m "Değişiklikler eklendi"
+   45  git add . 
+   46  git commit -m "Geliştirme güncellendi"
+   47  git status
+   48  // develop branch test
+   49  git add . 
+   50  git commit -m "Değişiklikler güncellendi"
+   51  echo "test develop" >> test.txt
+   52  git status
+   53  git add .
+   54  git push origin develop
+   55  clear
+   56  claer
+   57  clear
+   58  pwd
+   59  1s
+   60  eco "deneme1" >> text_test.txt
+   61  git status
+   62  echo deneme > test.txt
+   63  git add .
+   64  git add test.txt
+   65  git add .
+   66  git commit -m "test.txt dosyası güncellendi"
+   67  git push origin develop
+   68  git checkout main
+   69  git merge develop
+   70  git log
+   71  git push origin main
+   72  git pull origin main
+   73  git push origin main
+   74  git status
+   75  git checkout main
+   76  git pull origin main
+   77  [200~history > command_list.csv
+   78  history > command_list.csv
+   79  clear
+   80  history > command_list.csv
